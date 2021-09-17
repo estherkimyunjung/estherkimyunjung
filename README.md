@@ -9,7 +9,7 @@ Full-stack web developer transitioning from hospitality management, loan process
 ### Technical Skills
 
 Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQL, Java, JSP, Bootstrap, Semantic UI/Material UI React, Git, Agile Workflow
- 
+<!--  
  
 ### Projects
 
@@ -45,7 +45,7 @@ Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQ
   * Recruited and developed successful operations staff to handle day-to-day business operations.
   * Managed labor, inventory, and reduced overhead costs effectively to maintain business profitability.
   * Handled team, customer, and operations issues with professional strategies to meet business goals.
-
+ -->
 
 ### Education
 
