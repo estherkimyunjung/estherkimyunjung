@@ -1,6 +1,6 @@
 # [Esther (Yunjung) Kim](mailto:estherkimyunjung@gmail.com)
 
-[Github](https://github.com/estherkimyunjung) | [Blog](https://medium.com/@estherkimyunjung) | [Linkedin](https://www.linkedin.com/in/estherkim-yunjung)
+[Portfolio](https://estherkim.netlify.app/) | [Blog](https://medium.com/@estherkimyunjung) | [Linkedin](https://www.linkedin.com/in/estherkim-yunjung)
 
 
 Full-stack web developer transitioning from hospitality management, loan processing, teaching, and accounting/tax careers. Experience with Ruby on Rails and JavaScript-based programming. Possesses strong skills in project management, team planning, strategy, analysis, and organization that helps companies achieve specific goals and objectives on time. Ability to multi-task well under pressure and work diligently to meet deadlines, collaborate with others and self learn to solve challenging problems. I’m creative and capable of adapting to new tasks to deliver high work quality. 
