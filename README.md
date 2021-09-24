@@ -47,10 +47,10 @@ Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQ
 
 ### Education
 
-* **Flatiron School, Houston, TX, USA - Immersive Software Engineering Certificate**: 04/2020 - 07/2020
+* **Flatiron School, Houston, TX, USA - Immersive Software Engineering Certificate**: 2020
    - Immersive full-stack software engineering program in Ruby on Rails backend and JS with React and Redux libraries frontend.
 
-* **Encore Software Service, Inc., South Korea - Front-end Web Development Certificate**: 03/2019 - 11/2019
+* **Encore Software Service, Inc., South Korea - Front-end Web Development Certificate**: 2019
    - Front-end Web Development in HTML, CSS, JS, jQuery, and Agile Workflow
 
 * **Konyang University, South Korea - BS, Computer Science Engineering / Teacher’s Certificate**: 03/1997 - 02/2000
