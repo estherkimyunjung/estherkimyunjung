@@ -2,7 +2,7 @@
 * [Portfolio](https://estherkim.netlify.app/) | [Blog](https://medium.com/@estherkimyunjung) | [Linkedin](https://www.linkedin.com/in/estherkim-yunjung)
 
 
-Full-stack web developer transitioning from hospitality management, loan processing, teaching, and accounting/tax careers. Experience with Ruby on Rails and JavaScript-based programming. Possesses strong skills in project management, team planning, strategy, analysis, and organization that helps companies achieve specific goals and objectives on time. Ability to multi-task well under pressure and work diligently to meet deadlines, collaborate with others and self learn to solve challenging problems. I’m creative and capable of adapting to new tasks to deliver high work quality. 
+Full stack web developer with a passion for learning and developing user-friendly web applications. With experience in Ruby on Rails, React, Redux, and JavaScript based programming and a background in Business and Finance. I bring strong skills in project management, customer service, sales, and marketing to further enhance organizational worth. I’m creative and capable of adapting to new tasks to deliver high work quality. 
 
 
 ### Technical Skills
@@ -47,10 +47,8 @@ Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQ
 
 ### Education
 
-* **Flatiron School, Houston, TX, USA - Immersive Software Engineering Certificate**: 2020
+* **Flatiron School, Houston, TX, USA - Immersive Software Engineering Certificate**
    - Immersive full-stack software engineering program in Ruby on Rails backend and JS with React and Redux libraries frontend.
-
-* **Encore Software Service, Inc., South Korea - Front-end Web Development Certificate**: 2019
+* **Encore Software Service, Inc., South Korea - Front-end Web Development Certificate**
    - Front-end Web Development in HTML, CSS, JS, jQuery, and Agile Workflow
-
-* **Konyang University, South Korea - BS, Computer Science Engineering / Teacher’s Certificate**: 03/1997 - 02/2000
+* **Konyang University, South Korea - BS, Computer Science Engineering / Teacher’s Certificate** 
