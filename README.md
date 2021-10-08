@@ -43,7 +43,7 @@ Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQ
   * Recruited and developed successful operations staff to handle day-to-day business operations.
   * Managed labor, inventory, and reduced overhead costs effectively to maintain business profitability.
   * Handled team, customer, and operations issues with professional strategies to meet business goals.
- -->
+
 
 ### Education
 
@@ -52,3 +52,4 @@ Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQ
 * **Encore Software Service, Inc., South Korea - Front-end Web Development Certificate**
    - Front-end Web Development in HTML, CSS, JS, jQuery, and Agile Workflow
 * **Konyang University, South Korea - BS, Computer Science Engineering / Teacher’s Certificate** 
+ -->
