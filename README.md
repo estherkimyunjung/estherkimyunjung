@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱  I’m a Full Stack Web Developer with a passion for learning and developing user-friendly web applications. Currently learning Angula and C#.
-- 📫  Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com) | [`Linkedin`](https://www.linkedin.com/in/estherkim-yunjung)**
-- 👀  See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)**
+- 👀  See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)** 
+- 📫  Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com)**
 
 <div>
 <details>
@@ -12,6 +12,11 @@
 </details>
 </div>
 
+<!-- <p align='center'> -->
+  <a href="https://www.linkedin.com/in/estherkim-yunjung">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
 <!--
 ### Technical Skills
 Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQL, Java, JSP, Bootstrap, Semantic UI/Material UI React, Git, Agile Workflow
