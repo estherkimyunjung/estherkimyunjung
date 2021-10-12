@@ -1,9 +1,17 @@
-### [Esther (Yunjung) Kim](mailto:estherkimyunjung@gmail.com) 
-* [Portfolio](https://estherkim.netlify.app/) | [Blog](https://medium.com/@estherkimyunjung) | [Linkedin](https://www.linkedin.com/in/estherkim-yunjung)
+### Hi there 👋
 
+* [Portfolio](https://estherkim.netlify.app/)
+- 🌱 I’m a Full Stack Web Developer with a passion for learning and developing user-friendly web applications. Currently learning Angula and C#.
+- 📫 Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com) | [`Linkedin`](https://www.linkedin.com/in/estherkim-yunjung)**
+- 💼 See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)**
 
-Full stack web developer with a passion for learning and developing user-friendly web applications. With experience in Ruby on Rails, React, Redux, and JavaScript based programming and a background in Business and Finance. I bring strong skills in project management, customer service, sales, and marketing to further enhance organizational worth. I’m creative and capable of adapting to new tasks to deliver high work quality. 
+<div>
+<details>
+  <summary>Most Used Languages</summary>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estherkimyunjung&show_icons=true&locale=en&layout=compact" alt="estherkimyunjung" /></p>
+</details>
+</div>
 
 ### Technical Skills
 Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQL, Java, JSP, Bootstrap, Semantic UI/Material UI React, Git, Agile Workflow
