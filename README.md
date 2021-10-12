@@ -12,10 +12,10 @@
 </details>
 </div>
 
+<!--
 ### Technical Skills
 Javascript, ES6, React.js, Redux, Postgresql, HTML, CSS, jQuery, Ruby, Rails, SQL, Java, JSP, Bootstrap, Semantic UI/Material UI React, Git, Agile Workflow
-<!--  
- 
+   
 ### Projects
 
 * **[Home1800](https://github.com/estherkimyunjung/Home1800)**
