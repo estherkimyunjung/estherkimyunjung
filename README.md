@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m a Full Stack Web Developer with a passion for learning and developing user-friendly web applications. Currently learning Angula and C#.
-- 💬 Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com) | [`Linkedin`](https://www.linkedin.com/in/estherkim-yunjung)**
-- 💼 See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)**
+- 📫  Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com) | [`Linkedin`](https://www.linkedin.com/in/estherkim-yunjung)**
+- 👀 See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)**
 
 <div>
 <details>
