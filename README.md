@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 &nbsp;&nbsp; I’m a Full Stack Web Developer with a passion for learning and developing user-friendly web applications.<br>
-🎯 &nbsp;&nbsp; Currently learning Angula and C#.<br>
+🎯 &nbsp;&nbsp; Currently learning React Native, Angula ,and C#.<br>
 👀 &nbsp;&nbsp; See my full **[`portfolio`](https://estherkim.netlify.app/) | [`Blog`](https://medium.com/@estherkimyunjung)** <br>
 📫 &nbsp;&nbsp; Reach out to me by **[`Email`](mailto:estherkimyunjung@gmail.com)**
 
